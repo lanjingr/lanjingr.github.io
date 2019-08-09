@@ -1,1 +1,7 @@
-{"__type__":"cc.JsonAsset","_name":"JSON","json":{"data":"Hello, Creator"}}
+{
+  "__type__": "cc.JsonAsset",
+  "_name": "JSON",
+  "json": {
+    "data": "Hello, Creator"
+  }
+}
